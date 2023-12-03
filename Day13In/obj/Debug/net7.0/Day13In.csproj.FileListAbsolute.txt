@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\Day13In sol\Day13In\bin\Debug\net7.0\Day13In.exe
+C:\Users\Training\source\repos\Day13In sol\Day13In\bin\Debug\net7.0\Day13In.deps.json
+C:\Users\Training\source\repos\Day13In sol\Day13In\bin\Debug\net7.0\Day13In.runtimeconfig.json
+C:\Users\Training\source\repos\Day13In sol\Day13In\bin\Debug\net7.0\Day13In.dll
+C:\Users\Training\source\repos\Day13In sol\Day13In\bin\Debug\net7.0\Day13In.pdb
+C:\Users\Training\source\repos\Day13In sol\Day13In\obj\Debug\net7.0\Day13In.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\Day13In sol\Day13In\obj\Debug\net7.0\Day13In.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\Day13In sol\Day13In\obj\Debug\net7.0\Day13In.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\Day13In sol\Day13In\obj\Debug\net7.0\Day13In.AssemblyInfo.cs
+C:\Users\Training\source\repos\Day13In sol\Day13In\obj\Debug\net7.0\Day13In.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\Day13In sol\Day13In\obj\Debug\net7.0\Day13In.dll
+C:\Users\Training\source\repos\Day13In sol\Day13In\obj\Debug\net7.0\refint\Day13In.dll
+C:\Users\Training\source\repos\Day13In sol\Day13In\obj\Debug\net7.0\Day13In.pdb
+C:\Users\Training\source\repos\Day13In sol\Day13In\obj\Debug\net7.0\Day13In.genruntimeconfig.cache
+C:\Users\Training\source\repos\Day13In sol\Day13In\obj\Debug\net7.0\ref\Day13In.dll
